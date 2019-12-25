@@ -1,4 +1,4 @@
-# Waste Management Using Line Follower Bot
+# Garbage Management Using Line Follower Bot
 
 The primary goal of the project is to implement a automated garbage collection. 
 This project is done as part of [IT825 Designing of Internet of Things](https://infotech.nitk.ac.in/course/it825) taught at National Institute of Technology Karnataka.
@@ -31,4 +31,4 @@ The dustbins were mounted upside down so that the openings were at the bottom.
                          Dumping Yard
 ```
 
-Authors : [Sampat Ghosh](https://github.com/sampatghosh), [Shaikh Sahil Ahmed](https://github.com/ShaikhSahilAhmed)
+Authors : [Sampat Ghosh](https://github.com/sampatghosh), [Shaikh Sahil Ahmed](https://github.com/ShaikhSahilAhmed), Rohit Meshram
